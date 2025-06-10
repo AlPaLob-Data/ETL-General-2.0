@@ -1,0 +1,101 @@
+ID,Nombre,Edad,Correo,Género,Fecha_Registro,País,Ingreso_Anual,Suscripción
+1,Mtro. Abelardo Rincón,62,horacio30@herrera-jaquez.biz,Male,22-Aug-23,EEUU,28079.89295159107,1
+2,Abigail Salcedo,,trevinoignacio@industrias.com,masculino,2023-07-26,México,"$29,392.28",0
+3,Luisa Diego Bravo Orellana,29,ana-mariapadilla@gmail.com,f,2025/02/07,México,78086.44,0
+4,Mtro. Claudia López,veinticinco,elias09@gollum-lemus.com,M,07-12-2024,USA,65488.92527390552,True
+5,Lic. Ana María Gamez,,fabiolabaca@club.info,m,09-03-2023,United States,"$42,532.99",Sí
+6,Lic. Samuel Llamas,,azarate@hotmail.com,m,06/02/2024,Mex.,60543.22924555456,0
+7,Santiago Lozada,18,negronjuan-carlos@@gmail.com,f,2024/07/26,USA,"$51,251.41",True
+8,Óliver Daniela Hidalgo,,qmontez@hotmail.com,Female,19/02/2024,United States,70181.27,1
+9,Lic. Bianca Guillen,veinticinco,gabino54@industrias.com,M,28/05/2024,México,"$42,634.57",True
+10,Dulce María Elsa Macías,31,juliacadena@olivo.info,f,10-23-2024,México,"$24,165.29",
+11,Omar Gracia,21,tamaya@hotmail.com,M,11/11/2024,USA,71012.6436367897,1
+12,Indira Abigail Ordóñez Carrasco,34,eugenio14@hotmail.com,f,2024-09-09,Mex.,67020.50,False
+13,Dr. Rodrigo Almaraz,veinticinco,itzel72@hotmail.com,M,,Mex.,,True
+14,Nelly Malave,52,bosorio@yahoo.com,Female,03-08-2024,MEX,87158.88237944084,No
+15,Jos Darío Segovia,veinticinco,sofia33@duarte-rios.com,masculino,2023/06/23,United States,"$95,425.38",No
+16,Lilia Irma Barraza de la O,20,jose-carlos03@@nevarez.com,m,29-Apr-24,México,78551.79,1
+17,Ana María Puga,veinticinco,saiznorma@gmail.com,Female,2024/05/02,México,75736.08396335432,False
+18,Lic. Angélica Menchaca,veinticinco,lharo@yahoo.com,F,25/02/2024,EEUU,43163.2485375378,0
+19,Cristobal Gabino Saldaña,,camador@hotmail.com,f,2023-06-11,México,29527.43,True
+20,Timoteo Macías Curiel,63,mateomartin@cavazos.com,F,2023/11/24,Mex.,21772.15,Sí
+21,Dr. Ivonne Otero,30,aolivares@@hotmail.com,femenino,2024/07/24,USA,86461.93774390765,False
+22,Minerva Valdez,27,pinaelsa@yahoo.com,M,2023-09-17,MEX,26836.137625219642,True
+23,Modesto Acevedo Olivas,39,pablo62@negrete-medrano.biz,Female,2024-10-25,EEUU,60747.56,False
+24,Rosalia Carlos Castro,53,micaela09@grupo.com,,03-24-2024,USA,60724.51,No
+25,Lic. Adán Galindo,25,umontalvo@hotmail.com,m,17/10/2023,Mex.,"$60,593.83",True
+26,Adriana Wendolin Arias,63,esperanza33@gmail.com,femenino,12-07-2024,USA,56607.988161878486,True
+27,Lic. Natividad Godoy,,nayelibaeza@laboratorios.com,femenino,13/07/2023,MEX,63928.32,No
+28,Mauro Padrón Montenegro,41,psierra@garcia.com,F,2024-04-04,United States,44095.56707190076,No
+29,Gloria Alma Gálvez Garica,28,victoriamenendez@yahoo.com,femenino,2025-01-29,México,"$63,200.56",1
+30,Mtro. Israel Manzanares,,clemente03@hotmail.com,femenino,2023/07/28,,"$48,701.92",0
+31,Indira Úrsula Domínguez,,moralourdes@yahoo.com,femenino,2023-12-15,USA,"$60,609.97",1
+32,Dulce Pascual Saldivar Zapata,veinticinco,samaniegoanel@hotmail.com,masculino,04-10-2024,EEUU,"$69,467.92",0
+33,Luz Conchita Quesada Esquibel,19,guillermomiranda@de.com,masculino,2023/07/19,Mex.,"$57,657.20",0
+34,María Teresa Ivonne González Lucero,,,F,12-22-2023,USA,50798.29626050619,True
+35,Lucía Gabriel Lucero,,francoespartaco@gmail.com,masculino,08-06-2023,,53881.48927734737,No
+36,Natalia Montalvo Zaragoza,veinticinco,catalina89@yahoo.com,masculino,2024/07/25,México,36217.52,0
+37,Olga Ríos Orosco,veinticinco,rangelabelardo@@rodrigez-botello.com,M,2024-01-28,United States,47046.33,True
+38,Ilse Esquibel Acuña,,acunamarisela@viera.biz,F,20-Dec-24,USA,59509.44871386829,True
+39,Ofelia Leonel Laureano,59,fcolunga@hotmail.com,M,15/06/2024,México,72076.19,No
+40,Linda Eugenio Casares de la Crúz,39,adancovarrubias@archuleta.biz,Male,2023-09-25,Mex.,"$21,615.26",0
+41,Josefina Andrés Acevedo Madrigal,,qnunez@luna-pina.biz,m,2024/03/25,MEX,76233.80701192931,1
+42,César Ana María Matos,,victoriabalderas@escamilla-batista.org,F,2024-06-17,Mex.,40669.28238955302,False
+43,Lic. Jorge Díaz,veinticinco,emilia97@grupo.biz,f,2024/03/24,MEX,47664.96340475108,Sí
+44,Dr. Gabriel Baeza,veinticinco,francisco09@lucero.org,f,2023-09-20,USA,39593.062502337525,False
+45,Abril Esther Campos Roque,veinticinco,pinawendolin@hotmail.com,masculino,09-29-2024,United States,61653.16,0
+46,Martín María Teresa Ochoa Peres,,virginia88@santana.net,Male,10-06-2023,México,,False
+47,Frida Ruby Menchaca Soto,,wendolin83@laboratorios.com,M,01-22-2024,USA,47599.97,False
+48,Amelia Almonte Manzanares,37,adan73@yahoo.com,f,10-31-2023,México,20851.12,1
+49,Rodolfo Héctor Rendón,63,cristina16@@gmail.com,masculino,2024/12/31,EEUU,"$85,559.55",0
+50,Sr(a). Eric Rodríquez,50,maciasemilio@@vega.net,Male,20-Nov-23,Mex.,"$90,356.84",True
+51,Vicente Julia Valdés,veinticinco,,femenino,2025-02-19,EEUU,98358.83288104845,True
+52,Nayeli Linda Rosales Corral,,conchita06@gracia.biz,f,10-09-2024,MEX,84033.09208503386,No
+53,Dr. Esparta Partida,,augusto80@gmail.com,femenino,19-Apr-25,México,"$67,433.80",0
+54,Ing. Irma Cardenas,veinticinco,vergaraana@corporacin.com,f,27-Aug-23,USA,52037.84,0
+55,Lic. Leticia Zarate,,,Male,2024/06/15,United States,72346.89522877776,Sí
+56,Sr(a). Yolanda Rojo,45,gabriela21@hotmail.com,f,09/09/2024,United States,58198.878026558225,No
+57,Cecilia Loya,46,israel96@yahoo.com,m,,USA,66650.63,True
+58,Mtro. Horacio Muñiz,,fajardomaria@gmail.com,Female,05-08-2024,USA,42838.937685880825,0
+59,Mtro. Pascual Arreola,55,ruby04@yanez-orosco.com,masculino,09-26-2024,USA,78344.78270609517,No
+60,Sr(a). Marcos Valenzuela,veinticinco,jespino@grupo.com,M,08/06/2024,USA,89869.35,1
+61,Hilda Catalina Benítez Meléndez,veinticinco,ernesto84@yahoo.com,F,09-17-2024,México,20397.49,Sí
+62,José Jos Oquendo Marrero,,itzelavila@gmail.com,femenino,11-11-2024,Mex.,"$62,195.89",No
+63,Sr(a). Víctor Lucero,40,calderonana-luisa@@corporacin.com,femenino,05-Feb-24,USA,67465.05,False
+64,Sr(a). Guillermina Montero,52,serafin70@@gmail.com,m,10-17-2024,MEX,42822.562626381725,True
+65,Diana Mercedes Gálvez Almonte,veinticinco,blancogabriela@hotmail.com,femenino,29-Jan-24,United States,"$58,521.82",0
+66,Julio Véliz,46,judithcalderon@nieves.com,M,2023/08/31,USA,96445.77908509017,1
+67,Pascual Hurtado Cuellar,,ccamarillo@gmail.com,m,2024-08-17,United States,67017.27121114681,0
+68,Elisa Riojas Quintero,,maria-del-carmen44@@gmail.com,m,10-Mar-25,México,34358.21983202945,True
+69,Nadia Sanabria Saldaña,veinticinco,bruno67@hotmail.com,Male,19/10/2023,Mex.,61555.45,False
+70,Gerónimo Pérez,,maria-jose44@@zamudio-matos.com,Male,20/04/2025,Mex.,45356.583222038986,False
+71,Dr. Norma Montalvo,58,qguajardo@hotmail.com,masculino,24-Oct-24,United States,USD??,No
+72,Sr(a). Gabriel Ponce,61,jose-eduardoacevedo@hotmail.com,Male,06-May-25,México,"$52,296.27",0
+73,Mauro Cornejo,,,masculino,06-28-2024,MEX,51867.17,0
+74,Abigail González González,26,juan-carlos80@yahoo.com,m,24-Mar-24,EEUU,55305.16,Sí
+75,Cristina Valenzuela,veinticinco,reynaldogonzalez@gmail.com,Female,08-02-2024,EEUU,"$45,558.06",1
+76,Miguel Ángel Peres Carrillo,54,joaquin97@peralta.net,F,10/02/2024,México,"$44,783.92",Sí
+77,Ing. Abigail Soliz,35,dario50@hotmail.com,Male,08-15-2023,United States,82357.25,Sí
+78,Bianca Toledo,50,guadalupealejandro@club.com,F,,Mex.,"$61,803.27",Sí
+79,Arturo Jerónimo Montemayor,18,victoriachacon@velez-calderon.org,Female,12-16-2024,United States,60893.94949224017,Sí
+80,Rosalia Delgadillo Lucero,,jose-manuel45@@club.info,Female,18-Oct-23,United States,97598.99,True
+81,Lic. Ariadna Casillas,veinticinco,marianofeliciano@yahoo.com,M,04/05/2024,MEX,98122.95,1
+82,René Mayte Miranda,veinticinco,portilloteodoro@hotmail.com,Female,2025/05/09,EEUU,"$53,366.61",1
+83,Vicente Nancy Lucio Nevárez,27,karinacasanova@yahoo.com,F,32/13/2025,México,50271.99929956172,True
+84,Débora Salinas Casanova,63,abigail96@@urias.com,Female,19-Mar-25,EEUU,"$60,000.71",0
+85,Sr(a). Miguel Ángel Valverde,,mauronevarez@club.com,masculino,2023/06/12,United States,94665.73,Sí
+86,Leonardo Reina de la Rosa,36,villarealjose-luis@@cisneros.com,Male,2024-12-30,USA,38256.954225616784,False
+87,,,ymacias@valencia-anaya.com,f,01-15-2025,MEX,89678.73959308545,Sí
+88,Itzel Guillermina Guzmán,,tarellano@@hotmail.com,masculino,2024-10-20,USA,37190.31,No
+89,Nelly Pulido,veinticinco,kcuellar@despacho.com,F,01-04-2025,Mex.,"$86,616.58",Sí
+90,Sara Maximiliano García Berríos,veinticinco,nburgos@proyectos.org,m,2023/06/27,USA,61975.04136485286,Sí
+91,Ana Luisa Caridad del Río,46,vcadena@@hotmail.com,Female,09-Nov-23,United States,25498.95809140227,True
+92,Francisca Ilse Zavala Leiva,62,coquendo@yahoo.com,femenino,2024-01-02,United States,"$96,943.00",0
+93,Mariano Serrano,veinticinco,jaime21@yahoo.com,Male,2024/02/02,MEX,82788.40,0
+94,Luis Ávalos,53,rybarra@gmail.com,f,10-Jun-24,USA,"$70,360.78",1
+95,Salma Conchita Abrego,30,bsalgado@gmail.com,femenino,2024/09/11,Mex.,50517.30,True
+96,Pilar Bianca Girón,veinticinco,abraham93@gmail.com,f,28-Oct-24,United States,47819.09664074148,No
+97,Andrés Teodoro Ornelas Carrera,57,monica88@yahoo.com,f,02-Apr-24,Mex.,66713.18779890006,0
+98,Mtro. Abigail Pelayo,veinticinco,dtellez@gmail.com,Male,16-Jul-24,United States,"$75,581.50",Sí
+99,Jesús Rodolfo Ureña Zamora,20,francisco-javier69@altamirano.org,M,17/04/2025,United States,50940.18,True
+100,Dr. Abel Luna,veinticinco,agustincortez@gil.com,F,2024/01/08,USA,47402.3734763042,0
